@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87f1a345-241c-4b63-8334-856dba912c20" name="Default Changelist" comment="" />
+    <list default="true" id="87f1a345-241c-4b63-8334-856dba912c20" name="Default Changelist" comment="学习笔记">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1107/src/Swing_JPasswordField.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day1107/src/Swing_JPasswordField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day1107/Swing_JTextField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day1107/Swing_JTextField.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="418">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,7 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JTextField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="418">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,11 +56,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JPasswordField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            <state relative-caret-position="220">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +82,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,15 +126,19 @@
         <option value="$PROJECT_DIR$/Day1107/src/Swing_JComboBOx.java" />
         <option value="$PROJECT_DIR$/Day1107/src/Swing_JList.java" />
         <option value="$PROJECT_DIR$/Day1107/src/Swing_JTextField.java" />
+        <option value="$PROJECT_DIR$/Day1107/src/Swing_Password.java" />
         <option value="$PROJECT_DIR$/Day1107/src/Swing_JPasswordField.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="881" />
-    <option name="y" value="1" />
+    <option name="x" value="452" />
+    <option name="y" value="7" />
     <option name="width" value="1066" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -161,6 +176,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
@@ -200,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Swing_JTextField">
+  <component name="RunManager" selected="Application.Swing_JPasswordField">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Day1107" />
@@ -215,15 +231,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swing_JDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swing_JDialog" />
-      <module name="Day1104" />
+    <configuration name="Swing_JList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing_JList" />
+      <module name="Day1107" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swing_JList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swing_JList" />
+    <configuration name="Swing_JPasswordField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing_JPasswordField" />
       <module name="Day1107" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -238,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Swing_JTextField" />
+        <item itemvalue="Application.Swing_JPasswordField" />
         <item itemvalue="Application.Swing_JList" />
+        <item itemvalue="Application.Swing_JTextField" />
         <item itemvalue="Application.Swing_JComboBOx" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Swing_JDialog" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +285,7 @@
       <workItem from="1573029831347" duration="3038000" />
       <workItem from="1573093170797" duration="5753000" />
       <workItem from="1573114710111" duration="5704000" />
-      <workItem from="1573132007747" duration="848000" />
+      <workItem from="1573132007747" duration="4840000" />
     </task>
     <servers />
   </component>
@@ -306,11 +322,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50520000" />
+    <option name="totallyTimeSpent" value="54512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="881" y="1" width="1066" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="452" y="7" width="1066" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21073559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,7 +336,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49951783" visible="true" weight="0.24726477" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49951783" visible="true" weight="0.2464403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,7 +346,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50048214" side_tool="true" weight="0.30415756" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3085339" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30777657" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -345,6 +360,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习笔记" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Demo01File.java" />
@@ -643,17 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JTextField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="418">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -664,6 +674,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../JAVA/lib/src.zip!/java.desktop/javax/swing/JPasswordField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="292" column="18" selection-start-line="292" selection-start-column="18" selection-end-line="292" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1107/src/Swing_JPasswordField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
